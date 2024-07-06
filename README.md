@@ -30,7 +30,7 @@ This portfolio website serves as a platform to display my skills, projects, and 
 
 - HTML
 - CSS
-- JavaScript
+
 
 ## Installation
 
